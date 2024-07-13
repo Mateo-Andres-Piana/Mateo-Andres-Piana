@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Junior Backend Developer Mateo Piana</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 📫 How to reach me **mateoandrespiana@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **mateoandrespiana@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
